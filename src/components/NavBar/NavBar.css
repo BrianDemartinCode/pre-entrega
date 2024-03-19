@@ -1,0 +1,26 @@
+/* nav */
+.nav-color{
+    background: #252921;
+}
+/* nav */
+
+/* a */
+.a-color{
+    color: white;
+}
+
+.a-color:hover{
+    background: red;
+    color: white;
+    font-size: 20px;
+}
+/* a */
+
+/* numero carrito */
+.numero-carrito{
+    color: red;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+/* numero carrito */
